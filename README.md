@@ -1,8 +1,11 @@
-### Hi there 👋
 
+<div id="header" alling= "right">
+  <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width= "100"/>
+  <h1 aling="center"> Hola, mi nombre es Karina Martinez 👋</h1>
+  
 <!--
 **karomrtz/karomrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hola, mi nombre es Karina Martinez 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
